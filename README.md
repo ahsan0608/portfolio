@@ -1,7 +1,7 @@
 # Sr. DevOps Engineer | Trainer
 
 ## Work Experience
-**FirstBlood Technologies Inc, Boston, Massachusetts  (September 2022 - Present_)**
+**FirstBlood Technologies Inc, Boston, Massachusetts  (September 2022 - Present)**
 ***Sr. DevOps Engineer***
 - Manage infrastructure and deployment of a blockchain based eSports platform with 150,000+ monthly active users
 - Setup devops infrastructure (Terraform, Ansible) for moving from AWS to GCE
@@ -17,9 +17,15 @@
 - Work closely with the NOC team, system engineers, software developers, test engineers and data team
 
 
-**TechServe4U LLC, Warren, Michigan (_November 2021 - March 2013)**
+**TechServe4U LLC, Warren, Michigan (November 2021 - March 2013)**
 ***Lead Instructor***
 - Conducted courses on in-depth Python Microservices, AWS technologies, Solutions and Systems Architecture, Kubernetes microservices etc
+
+**Dynamic Solution Innovators Ltd, Dhaka, Bangladesh (January 2022 - December 2022)**
+***SRE***
+
+**Newgen Technology Ltd., Dhaka, Bangladesh (October 2019 - November 2021)**
+***Software Engineer***
 
 ## Education 			        		
 - B.S., EEE | Chittagong University of Engineering and Technology, Chittagong, Bangladesh (_May 2019_)
@@ -27,14 +33,14 @@
 - S.S.C, Science	| Rangpur Zilla School (_December 2012_)	
 
 #### Technical Skills: 
-**Cloud Platforms: AWS, GCP, OpenStack, Ali Cloud
-**DevOps Tools: Docker, Kubernetes, Helm, Terraform, Terragrunt, Velero, Nexus, Skaffold, GitHub Actions, Jenkins, Ansible, SaltStack, Vagrant
-**Languages: Python, Golang, Shell Scripting, Solidity, JavaScript, Java
-**Frameworks: Flask, Django, ExpressJs, ReactJs, FastAPI
-**Database: MySQL, PostgreSQL, MongoDB
-**Monitoring and Logging: EFK, Prometheus, Grafana
-**Quality Assurance and Error Tracking: Sentry, SonarQube
-**Messaging and Queue: RabbitMQ, Redis, Memcached
+- **Cloud Platforms**: AWS, GCP, OpenStack, Ali Cloud
+- **DevOps Tools**: Docker, Kubernetes, Helm, Terraform, Terragrunt, Velero, Nexus, Skaffold, GitHub Actions, Jenkins, Ansible, SaltStack, Vagrant
+- **Languages**: Python, Golang, Shell Scripting, Solidity, JavaScript, Java
+- **Frameworks**: Flask, Django, ExpressJs, ReactJs, FastAPI
+- **Database**: MySQL, PostgreSQL, MongoDB
+- **Monitoring and Logging**: EFK, Prometheus, Grafana
+- **Quality Assurance and Error Tracking**: Sentry, SonarQube
+- **Messaging and Queue**: RabbitMQ, Redis, Memcached
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

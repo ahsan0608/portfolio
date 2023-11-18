@@ -28,7 +28,7 @@
 ***Software Engineer***
 
 ## Education 			        		
-- B.S., EEE | Chittagong University of Engineering and Technology, Chittagong, Bangladesh (_May 2019_)
+- B.S.C, EEE | Chittagong University of Engineering and Technology, Chittagong, Bangladesh (_May 2019_)
 - H.S.C., Science | Notre Dame College Dhaka (_May 2014_)								       		
 - S.S.C, Science	| Rangpur Zilla School (_December 2012_)	
 
@@ -46,7 +46,7 @@
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Pocket ECG](https://github.com/ahsan0608/PocketECG)
 
-Heart disease (Arrhythmia) prediction and real-time ECG monitoring system based on android phone.
+Heart disease (Arrhythmia) prediction and real-time ECG monitoring system based on deep learning.
 
 ![EEG Band Discovery](/assets/img/ecg.png)
 

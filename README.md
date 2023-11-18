@@ -48,7 +48,7 @@
 
 Heart disease (Arrhythmia) prediction and real-time ECG monitoring system based on android phone.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpg)
+![EEG Band Discovery](/assets/img/ecg.png)
 
 
 ## Talks & Lectures

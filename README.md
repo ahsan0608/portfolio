@@ -66,6 +66,7 @@
 ## Technical Skills:
 - **Cloud Platforms**: AWS, GCP, Azure, OpenStack, DigitalOcean
 - **DevOps Tools**: Docker, Kubernetes (EKS, GKE, AKS), Helm, Terraform, Terragrunt, OpenShift, Istio, Velero, Nexus, Skaffold, Jenkins, Octopus, Gitlab/Github CI/CD, Sitecore, Ansible, Vagrant, SonarQube, Jaeger, Zipkin
+- **Server Environments**: Linux Servers, Microsoft Servers
 - **Languages**: Python, Golang, JavaScript, Bash, Shell Scripting, Java, TypeScript
 - **Frameworks**: ExpressJs, ReactJs, Spring Boot, Flask, FastAPI
 - **Database**: MySQL, PostgreSQL, MongoDB
